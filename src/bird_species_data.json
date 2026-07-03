@@ -1,0 +1,3111 @@
+[
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Accipiter badius",
+    "turkish_name": "Şeritli Küçük Çakır Kuşu"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Accipiter brevipes",
+    "turkish_name": "Yaz Atmacası"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Accipiter gentilis",
+    "turkish_name": "Çakırkuşu"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Accipiter nisus",
+    "turkish_name": "Atmaca"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Aegypius monachus",
+    "turkish_name": "Kara Akbaba"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Aquila chrysaetos",
+    "turkish_name": "Kaya Kartalı"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Aquila fasciata",
+    "turkish_name": "Tavşancıl"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Aquila heliaca",
+    "turkish_name": "Şah Kartal"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Aquila nipalensis",
+    "turkish_name": "Bozkır Kartalı"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Aquila rapax",
+    "turkish_name": "Korsan Kartal"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Buteo buteo",
+    "turkish_name": "Şahin"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Buteo lagopus",
+    "turkish_name": "Paçalı Şahin"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Buteo rufinus",
+    "turkish_name": "Kızıl Şahin"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Circaetus gallicus",
+    "turkish_name": "Yılan Kartalı"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Circus aeruginosus",
+    "turkish_name": "Saz Delicesi"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Circus cyaneus",
+    "turkish_name": "Gökçe Delice"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Circus macrourus",
+    "turkish_name": "Bozkır Delicesi"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Circus pygargus",
+    "turkish_name": "Çayır Delicesi"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Clanga clanga",
+    "turkish_name": "Büyük Orman Kartalı"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Clanga pomarina",
+    "turkish_name": "Küçük Orman Kartalı"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Elanus caeruleus",
+    "turkish_name": "Ak Çaylak"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Gypaetus barbatus",
+    "turkish_name": "Sakallı Akbaba"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Gyps fulvus",
+    "turkish_name": "Kızıl Akbaba"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Haliaeetus albicilla",
+    "turkish_name": "Akkuyruklu Kartal"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Haliaeetus leucoryphus",
+    "turkish_name": "Akbandkuyruklu Kartal"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Hieraaetus pennatus",
+    "turkish_name": "Küçük Kartal"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Milvus migrans",
+    "turkish_name": "Kara Çaylak"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Milvus milvus",
+    "turkish_name": "Kızıl Çaylak"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Neophron percnopterus",
+    "turkish_name": "Küçük Akbaba"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Pernis apivorus",
+    "turkish_name": "Arı Şahini"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Pernis ptilorhynchus",
+    "turkish_name": "Tepeli Arı Şahini"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "scientific_name": "Terathopius ecaudatus",
+    "turkish_name": "Cambaz Kartal"
+  },
+  {
+    "order": "Accipitriformes",
+    "family": "Pandionidae",
+    "scientific_name": "Pandion haliaetus",
+    "turkish_name": "Balık Kartalı"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Alopochen aegyptiaca",
+    "turkish_name": "Nil Kazı"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Anas acuta",
+    "turkish_name": "Kılkuyruk"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Anas crecca",
+    "turkish_name": "Çamurcun"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Anas platyrhynchos",
+    "turkish_name": "Yeşilbaş"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Anser albifrons",
+    "turkish_name": "Sakarca"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Anser anser",
+    "turkish_name": "Boz Kaz"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Anser brachyrhynchus",
+    "turkish_name": "Küçük Tarla Kazı"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Anser caerulescens",
+    "turkish_name": "Kar Kazı"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Anser erythropus",
+    "turkish_name": "Küçük Sakarca"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Anser fabalis",
+    "turkish_name": "Tarla Kazı"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Aythya ferina",
+    "turkish_name": "Elmabaş Patka"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Aythya fuligula",
+    "turkish_name": "Tepeli Patka"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Aythya marila",
+    "turkish_name": "Karabaş Patka"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Aythya nyroca",
+    "turkish_name": "Pasbaş Patka"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Branta bernicla",
+    "turkish_name": "Yosun Kazı"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Branta leucopsis",
+    "turkish_name": "Akyanaklı Kaz"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Branta ruficollis",
+    "turkish_name": "Sibirya Kazı"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Bucephala clangula",
+    "turkish_name": "Altıngöz"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Clangula hyemalis",
+    "turkish_name": "Telkuyruk"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Cygnus columbianus",
+    "turkish_name": "Küçük Kuğu"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Cygnus cygnus",
+    "turkish_name": "Ötücü Kuğu"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Cygnus olor",
+    "turkish_name": "Kuğu"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Mareca falcata",
+    "turkish_name": "Büyük Çamurcun"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Mareca penelope",
+    "turkish_name": "Fiyu"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Mareca strepera",
+    "turkish_name": "Boz Ördek"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Marmaronetta angustirostris",
+    "turkish_name": "Yaz Ördeği"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Melanitta fusca",
+    "turkish_name": "Kadife Ördek"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Melanitta nigra",
+    "turkish_name": "Kara Ördek"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Mergellus albellus",
+    "turkish_name": "Sütlabi"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Mergus merganser",
+    "turkish_name": "Büyük Tarakdiş"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Mergus serrator",
+    "turkish_name": "Tarakdiş"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Netta rufina",
+    "turkish_name": "Macar Ördeği"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Oxyura jamaicensis",
+    "turkish_name": "Kara Başlı Dikkuyruk"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Oxyura leucocephala",
+    "turkish_name": "Dikkuyruk"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Somateria mollissima",
+    "turkish_name": "Pufla"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Spatula clypeata",
+    "turkish_name": "Kaşıkgaga"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Spatula querquedula",
+    "turkish_name": "Çıkrıkçın"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Tadorna ferruginea",
+    "turkish_name": "Angıt"
+  },
+  {
+    "order": "Anseriformes (Kazlar ve Ördekler)",
+    "family": "Anatidae (Ördekgiller)",
+    "scientific_name": "Tadorna tadorna",
+    "turkish_name": "Suna"
+  },
+  {
+    "order": "Bucerotiformes",
+    "family": "Upupidae",
+    "scientific_name": "Upupa epops",
+    "turkish_name": "İbibik"
+  },
+  {
+    "order": "Caprimulgiformes (Çobanaldatanlar)",
+    "family": "Apodidae",
+    "scientific_name": "Apus affinis",
+    "turkish_name": "Küçük Ebabil"
+  },
+  {
+    "order": "Caprimulgiformes",
+    "family": "Apodidae",
+    "scientific_name": "Apus apus",
+    "turkish_name": "Ebabil"
+  },
+  {
+    "order": "Caprimulgiformes (Çobanaldatanlar)",
+    "family": "Apodidae",
+    "scientific_name": "Apus pallidus",
+    "turkish_name": "Boz Ebabil"
+  },
+  {
+    "order": "Caprimulgiformes",
+    "family": "Apodidae",
+    "scientific_name": "Tachymarptis melba",
+    "turkish_name": "Akkarınlı Ebabil"
+  },
+  {
+    "order": "Caprimulgiformes",
+    "family": "Caprimulgidae",
+    "scientific_name": "Caprimulgus europaeus",
+    "turkish_name": "Çobanaldatan"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Burhinidae (Kocagözgiller)",
+    "scientific_name": "Burhinus oedicnemus",
+    "turkish_name": "Kocagöz"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Charadriidae (Yağmurcungiller)",
+    "scientific_name": "Charadrius alexandrinus",
+    "turkish_name": "Akça Cılıbıt"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Charadriidae (Yağmurcungiller)",
+    "scientific_name": "Charadrius asiaticus",
+    "turkish_name": "Doğu Cılıbıtı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Charadriidae (Yağmurcungiller)",
+    "scientific_name": "Charadrius dubius",
+    "turkish_name": "Halkalı Küçük Cılıbıt"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Charadriidae (Yağmurcungiller)",
+    "scientific_name": "Charadrius hiaticula",
+    "turkish_name": "Halkalı Cılıbıt"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Charadriidae (Yağmurcungiller)",
+    "scientific_name": "Charadrius leschenaultii",
+    "turkish_name": "Büyük Cılıbıt"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Charadriidae (Yağmurcungiller)",
+    "scientific_name": "Charadrius mongolus",
+    "turkish_name": "Kızılgerdanlı Yağmurcun"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Charadriidae (Yağmurcungiller)",
+    "scientific_name": "Charadrius morinellus",
+    "turkish_name": "Dağ Cılıbıtı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Charadriidae (Yağmurcungiller)",
+    "scientific_name": "Pluvialis apricaria",
+    "turkish_name": "Altın Yağmurcun"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Charadriidae (Yağmurcungiller)",
+    "scientific_name": "Pluvialis dominica",
+    "turkish_name": "Amerikan Altın Yağmurcunu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Charadriidae (Yağmurcungiller)",
+    "scientific_name": "Pluvialis fulva",
+    "turkish_name": "Küçük Altın Yağmurcun"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Charadriidae (Yağmurcungiller)",
+    "scientific_name": "Pluvialis squatarola",
+    "turkish_name": "Gümüş Yağmurcun"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Charadriidae (Yağmurcungiller)",
+    "scientific_name": "Vanellus gregarius",
+    "turkish_name": "Sürmeli Kızkuşu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Charadriidae (Yağmurcungiller)",
+    "scientific_name": "Vanellus indicus",
+    "turkish_name": "Büyük Kızkuşu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Charadriidae (Yağmurcungiller)",
+    "scientific_name": "Vanellus leucurus",
+    "turkish_name": "Akkuyruklu Kızkuşu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Charadriidae (Yağmurcungiller)",
+    "scientific_name": "Vanellus spinosus",
+    "turkish_name": "Mahmuzlu Kızkuşu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Charadriidae (Yağmurcungiller)",
+    "scientific_name": "Vanellus vanellus",
+    "turkish_name": "Kızkuşu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Dromadidae (Yengeç yağmurcunları)",
+    "scientific_name": "Dromas ardeola",
+    "turkish_name": "Yengeç Yağmurcunu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Glareolidae (Bataklık kırlangıcıgiller)",
+    "scientific_name": "Cursorius cursor",
+    "turkish_name": "Çölkoşarı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Glareolidae (Bataklık kırlangıcıgiller)",
+    "scientific_name": "Glareola nordmanni",
+    "turkish_name": "Karakanatlı Bataklıkkırlangıcı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Glareolidae (Bataklık kırlangıcıgiller)",
+    "scientific_name": "Glareola pratincola",
+    "turkish_name": "Bataklıkkırlangıcı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Haematopodidae (Poyraz kuşugiller)",
+    "scientific_name": "Haematopus moquini",
+    "turkish_name": "Karadeniz Saksağanı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Haematopodidae (Poyraz kuşugiller)",
+    "scientific_name": "Haematopus ostralegus",
+    "turkish_name": "Poyrazkuşu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Chlidonias hybrida",
+    "turkish_name": "Bıyıklı Sumru"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Chlidonias leucopterus",
+    "turkish_name": "Akkanatlı Sumru"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Chlidonias niger",
+    "turkish_name": "Kara Sumru"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Gelochelidon nilotica",
+    "turkish_name": "Gülen Sumru"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Hydrocoloeus minutus",
+    "turkish_name": "Küçük Martı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Hydroprogne caspia",
+    "turkish_name": "Hazar Sumrusu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Larus argentatus",
+    "turkish_name": "Kuzey Gümüş Martı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Larus armenicus",
+    "turkish_name": "Van Gölü Martısı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Ichthyaetus audouinii",
+    "turkish_name": "Ada Martısı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Larus cachinnans",
+    "turkish_name": "Gümüş Martı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Larus canus",
+    "turkish_name": "Küçük Gümüş Martı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Larus fuscus",
+    "turkish_name": "Karasırtlı Martı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Chroicocephalus genei",
+    "turkish_name": "İncegagalı Martı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Larus hyperboreus",
+    "turkish_name": "Kutup Martısı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Ichthyaetus ichthyaetus",
+    "turkish_name": "Büyük Karabaş Martı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Ichthyaetus leucophthalmus",
+    "turkish_name": "Kızıldeniz Martısı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Larus marinus",
+    "turkish_name": "Büyük Karasırtlı Martı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Ichthyaetus melanocephalus",
+    "turkish_name": "Akdeniz Martısı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Larus michahellis",
+    "turkish_name": "Gümüş Martı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Chroicocephalus ridibundus",
+    "turkish_name": "Karabaş Martı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Rissa tridactyla",
+    "turkish_name": "Karaayaklı Martı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Sterna hirundo",
+    "turkish_name": "Sumru"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Sterna paradisaea",
+    "turkish_name": "Kutup Sumrusu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Sternula albifrons",
+    "turkish_name": "Küçük Sumru"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Thalasseus bengalensis",
+    "turkish_name": "Tepeli Sumru"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Laridae (Martıgiller)",
+    "scientific_name": "Thalasseus sandvicensis",
+    "turkish_name": "Karagagalı Sumru"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Recurvirostridae (Kılıçgagagiller)",
+    "scientific_name": "Himantopus himantopus",
+    "turkish_name": "Uzunbacak"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Recurvirostridae (Kılıçgagagiller)",
+    "scientific_name": "Recurvirostra avosetta",
+    "turkish_name": "Kılıçgaga"
+  },
+  {
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "scientific_name": "Actitis hypoleucos",
+    "turkish_name": "Dere Düdükçünü"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Actitis macularius",
+    "turkish_name": "Benekli Düdükçün"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Arenaria interpres",
+    "turkish_name": "Taşçeviren"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Calidris alba",
+    "turkish_name": "Ak Kumkuşu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Calidris alpina",
+    "turkish_name": "Karakarınlı Kumkuşu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Calidris canutus",
+    "turkish_name": "Büyük Kumkuşu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Calidris falcinellus",
+    "turkish_name": "Sürmeli Kumkuşu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Calidris ferruginea",
+    "turkish_name": "Kızıl Kumkuşu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Calidris fuscicollis",
+    "turkish_name": "Aksokumlu Kumkuşu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Calidris melanotos",
+    "turkish_name": "Çizgili Kumkuşu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Calidris minuta",
+    "turkish_name": "Küçük Kumkuşu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Calidris pugnax",
+    "turkish_name": "Döğüşkenkuş"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Calidris temminckii",
+    "turkish_name": "Sarıbacaklı Kumkuşu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Gallinago gallinago",
+    "turkish_name": "Suçulluğu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Gallinago media",
+    "turkish_name": "Büyük Suçulluğu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Gallinago solitaria",
+    "turkish_name": "Muhacir Su Çulluğu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Limosa lapponica",
+    "turkish_name": "Kıyı Çamurçulluğu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Limosa limosa",
+    "turkish_name": "Çamurçulluğu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Lymnocryptes minimus",
+    "turkish_name": "Küçük Suçulluğu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Numenius arquata",
+    "turkish_name": "Kervançulluğu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Numenius phaeopus",
+    "turkish_name": "Sürmeli Kervançulluğu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Numenius tenuirostris",
+    "turkish_name": "İncegagalı Kervançulluğu"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Phalaropus fulicarius",
+    "turkish_name": "Kızıl Denizdüdükçünü"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Phalaropus lobatus",
+    "turkish_name": "Denizdüdükçünü"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Scolopax rusticola",
+    "turkish_name": "Çulluk"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Phalaropus tricolor",
+    "turkish_name": "Büyük Denizdüdükçünü"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Tringa erythropus",
+    "turkish_name": "Kara Kızılbacak"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Tringa flavipes",
+    "turkish_name": "Küçük Sarıbacak"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Tringa glareola",
+    "turkish_name": "Orman Düdükçünü"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Tringa nebularia",
+    "turkish_name": "Yeşilbacak"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Tringa ochropus",
+    "turkish_name": "Yeşil Düdükçün"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Tringa stagnatilis",
+    "turkish_name": "Bataklık Düdükçünü"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Tringa totanus",
+    "turkish_name": "Kızılbacak"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Scolopacidae (Çullukgiller)",
+    "scientific_name": "Xenus cinereus",
+    "turkish_name": "Terek Düdükçünü"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Stercorariidae (Yırtıcımartıgiller)",
+    "scientific_name": "Catharacta skua",
+    "turkish_name": "Büyük Korsanmartı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Stercorariidae (Yırtıcımartıgiller)",
+    "scientific_name": "Stercorarius longicaudus",
+    "turkish_name": "Uzunkuyruklu Korsanmartı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Stercorariidae (Yırtıcımartıgiller)",
+    "scientific_name": "Stercorarius parasiticus",
+    "turkish_name": "Korsanmartı"
+  },
+  {
+    "order": "Charadriiformes (Yağmur Kuşları)",
+    "family": "Stercorariidae (Yırtıcımartıgiller)",
+    "scientific_name": "Stercorarius pomarinus",
+    "turkish_name": "Kütkuyruklu Korsanmartı"
+  },
+  {
+    "order": "Ciconiiformes",
+    "family": "Ciconiidae",
+    "scientific_name": "Ciconia ciconia",
+    "turkish_name": "Leylek"
+  },
+  {
+    "order": "Ciconiiformes",
+    "family": "Ciconiidae",
+    "scientific_name": "Ciconia nigra",
+    "turkish_name": "Kara Leylek"
+  },
+  {
+    "order": "Ciconiiformes (Leylekler)",
+    "family": "Ciconiidae (Leylekgiller)",
+    "scientific_name": "Mycteria ibis",
+    "turkish_name": "Sarıgagalı Leylek"
+  },
+  {
+    "order": "Columbiformes",
+    "family": "Columbidae",
+    "scientific_name": "Columba livia",
+    "turkish_name": "Kaya Güvercini"
+  },
+  {
+    "order": "Columbiformes (Güvercinler)",
+    "family": "Columbidae (Güvercingiller)",
+    "scientific_name": "Columba oenas",
+    "turkish_name": "Gökçe Güvercin"
+  },
+  {
+    "order": "Columbiformes",
+    "family": "Columbidae",
+    "scientific_name": "Columba palumbus",
+    "turkish_name": "Tahtalı"
+  },
+  {
+    "order": "Columbiformes (Güvercinler)",
+    "family": "Columbidae (Güvercingiller)",
+    "scientific_name": "Oena capensis",
+    "turkish_name": "Kap Kumrusu"
+  },
+  {
+    "order": "Columbiformes",
+    "family": "Columbidae",
+    "scientific_name": "Spilopelia senegalensis",
+    "turkish_name": "Küçük Kumru"
+  },
+  {
+    "order": "Columbiformes",
+    "family": "Columbidae",
+    "scientific_name": "Streptopelia decaocto",
+    "turkish_name": "Kumru"
+  },
+  {
+    "order": "Columbiformes (Güvercinler)",
+    "family": "Columbidae (Güvercingiller)",
+    "scientific_name": "Streptopelia orientalis",
+    "turkish_name": "Büyük Üveyik"
+  },
+  {
+    "order": "Columbiformes",
+    "family": "Columbidae",
+    "scientific_name": "Streptopelia turtur",
+    "turkish_name": "Üveyik"
+  },
+  {
+    "order": "Coraciiformes",
+    "family": "Alcedinidae",
+    "scientific_name": "Alcedo atthis",
+    "turkish_name": "Yalıçapkını"
+  },
+  {
+    "order": "Coraciiformes (Kuzgunlar)",
+    "family": "Alcedinidae (Yalıçapkınıgiller)",
+    "scientific_name": "Ceryle rudis",
+    "turkish_name": "Alaca Yalıçapkını"
+  },
+  {
+    "order": "Coraciiformes (Kuzgunlar)",
+    "family": "Alcedinidae (Yalıçapkınıgiller)",
+    "scientific_name": "Halcyon smyrnensis",
+    "turkish_name": "İzmir Yalıçapkını"
+  },
+  {
+    "order": "Coraciiformes (Kuzgunlar)",
+    "family": "Coraciidae (Kuzgungiller)",
+    "scientific_name": "Coracias benghalensis",
+    "turkish_name": "Hint Gökkuzgunu"
+  },
+  {
+    "order": "Coraciiformes (Kuzgunlar)",
+    "family": "Coraciidae (Kuzgungiller)",
+    "scientific_name": "Coracias garrulus",
+    "turkish_name": "Gökkuzgun"
+  },
+  {
+    "order": "Coraciiformes",
+    "family": "Meropidae",
+    "scientific_name": "Merops apiaster",
+    "turkish_name": "Arıkuşu"
+  },
+  {
+    "order": "Coraciiformes (Kuzgunlar)",
+    "family": "Meropidae (Arıkuşugiller)",
+    "scientific_name": "Merops persicus",
+    "turkish_name": "Yeşil Arıkuşu"
+  },
+  {
+    "order": "Coraciiformes (Kuzgunlar)",
+    "family": "Meropidae (Arıkuşugiller)",
+    "scientific_name": "Merops superciliosus",
+    "turkish_name": "Yeşil Arıkuşu"
+  },
+  {
+    "order": "Cuculiformes (Guguk kuşları)",
+    "family": "Cuculidae (Gugukgiller)",
+    "scientific_name": "Clamator glandarius",
+    "turkish_name": "Tepeli Guguk"
+  },
+  {
+    "order": "Cuculiformes",
+    "family": "Cuculidae",
+    "scientific_name": "Cuculus canorus",
+    "turkish_name": "Guguk"
+  },
+  {
+    "order": "Falconiformes (Gündüz Yırtıcı Kuşları)",
+    "family": "Falconidae (Kerkenezgiller)",
+    "scientific_name": "Falco biarmicus",
+    "turkish_name": "Bıyıklı Doğan"
+  },
+  {
+    "order": "Falconiformes (Gündüz Yırtıcı Kuşları)",
+    "family": "Falconidae (Kerkenezgiller)",
+    "scientific_name": "Falco cherrug",
+    "turkish_name": "Ulu Doğan"
+  },
+  {
+    "order": "Falconiformes (Gündüz Yırtıcı Kuşları)",
+    "family": "Falconidae (Kerkenezgiller)",
+    "scientific_name": "Falco columbarius",
+    "turkish_name": "Boz Doğan"
+  },
+  {
+    "order": "Falconiformes (Gündüz Yırtıcı Kuşları)",
+    "family": "Falconidae (Kerkenezgiller)",
+    "scientific_name": "Falco concolor",
+    "turkish_name": "Gri Doğan"
+  },
+  {
+    "order": "Falconiformes (Gündüz Yırtıcı Kuşları)",
+    "family": "Falconidae (Kerkenezgiller)",
+    "scientific_name": "Falco eleonorae",
+    "turkish_name": "Ada Doğanı"
+  },
+  {
+    "order": "Falconiformes",
+    "family": "Falconidae",
+    "scientific_name": "Falco naumanni",
+    "turkish_name": "Küçük Kerkenez"
+  },
+  {
+    "order": "Falconiformes (Gündüz Yırtıcı Kuşları)",
+    "family": "Falconidae (Kerkenezgiller)",
+    "scientific_name": "Falco peregrinus",
+    "turkish_name": "Kızılenseli Doğan"
+  },
+  {
+    "order": "Falconiformes",
+    "family": "Falconidae",
+    "scientific_name": "Falco peregrinus",
+    "turkish_name": "Gök Doğan"
+  },
+  {
+    "order": "Falconiformes",
+    "family": "Falconidae",
+    "scientific_name": "Falco subbuteo",
+    "turkish_name": "Delice Doğan"
+  },
+  {
+    "order": "Falconiformes",
+    "family": "Falconidae",
+    "scientific_name": "Falco tinnunculus",
+    "turkish_name": "Kerkenez"
+  },
+  {
+    "order": "Falconiformes",
+    "family": "Falconidae",
+    "scientific_name": "Falco vespertinus",
+    "turkish_name": "Ala Doğan"
+  },
+  {
+    "order": "Galliformes",
+    "family": "Phasianidae",
+    "scientific_name": "Alectoris chukar",
+    "turkish_name": "Kınalı Keklik"
+  },
+  {
+    "order": "Galliformes (Tavuksular)",
+    "family": "Phasianidae (Sülüngiller)",
+    "scientific_name": "Alectoris graeca",
+    "turkish_name": "Kaya Kekliği"
+  },
+  {
+    "order": "Galliformes (Tavuksular)",
+    "family": "Phasianidae (Sülüngiller)",
+    "scientific_name": "Ammoperdix griseogularis",
+    "turkish_name": "Kum Kekliği"
+  },
+  {
+    "order": "Galliformes (Tavuksular)",
+    "family": "Phasianidae (Sülüngiller)",
+    "scientific_name": "Coturnix coturnix",
+    "turkish_name": "Bıldırcın"
+  },
+  {
+    "order": "Galliformes (Tavuksular)",
+    "family": "Phasianidae (Sülüngiller)",
+    "scientific_name": "Francolinus francolinus",
+    "turkish_name": "Turaç"
+  },
+  {
+    "order": "Galliformes (Tavuksular)",
+    "family": "Phasianidae (Sülüngiller)",
+    "scientific_name": "Lyrurus mlokosiewiczi",
+    "turkish_name": "Dağhorozu"
+  },
+  {
+    "order": "Galliformes (Tavuksular)",
+    "family": "Phasianidae (Sülüngiller)",
+    "scientific_name": "Lyrurus tetrix",
+    "turkish_name": "Ormanhorozu"
+  },
+  {
+    "order": "Galliformes (Tavuksular)",
+    "family": "Phasianidae (Sülüngiller)",
+    "scientific_name": "Perdix perdix",
+    "turkish_name": "Çilkeklik"
+  },
+  {
+    "order": "Galliformes (Tavuksular)",
+    "family": "Phasianidae (Sülüngiller)",
+    "scientific_name": "Phasianus colchicus",
+    "turkish_name": "Sülün"
+  },
+  {
+    "order": "Galliformes (Tavuksular)",
+    "family": "Phasianidae (Sülüngiller)",
+    "scientific_name": "Tetraogallus caspius",
+    "turkish_name": "Urkeklik"
+  },
+  {
+    "order": "Galliformes (Tavuksular)",
+    "family": "Phasianidae (Sülüngiller)",
+    "scientific_name": "Tetraogallus caucasicus",
+    "turkish_name": "Kafkas Urkekliği"
+  },
+  {
+    "order": "Gaviiformes (Dalgıç kuşları, Deniz dalgıçları)",
+    "family": "Gaviidae (Dalgıç kuşugiller)",
+    "scientific_name": "Gavia adamsii",
+    "turkish_name": "Sarı Gagalı Dalgıç"
+  },
+  {
+    "order": "Gaviiformes (Dalgıç kuşları, Deniz dalgıçları)",
+    "family": "Gaviidae (Dalgıç kuşugiller)",
+    "scientific_name": "Gavia arctica",
+    "turkish_name": "Karagerdanlı Dalgıç"
+  },
+  {
+    "order": "Gaviiformes (Dalgıç kuşları, Deniz dalgıçları)",
+    "family": "Gaviidae (Dalgıç kuşugiller)",
+    "scientific_name": "Gavia immer",
+    "turkish_name": "Buz Dalgıcı"
+  },
+  {
+    "order": "Gaviiformes (Dalgıç kuşları, Deniz dalgıçları)",
+    "family": "Gaviidae (Dalgıç kuşugiller)",
+    "scientific_name": "Gavia stellata",
+    "turkish_name": "Kızılgerdanlı Dalgıç"
+  },
+  {
+    "order": "Gruiformes (Turnalar)",
+    "family": "Gruidae (Turnagiller)",
+    "scientific_name": "Anthropoides virgo",
+    "turkish_name": "Telli Turna"
+  },
+  {
+    "order": "Gruiformes (Turnalar)",
+    "family": "Gruidae (Turnagiller)",
+    "scientific_name": "Grus grus",
+    "turkish_name": "Turna"
+  },
+  {
+    "order": "Gruiformes (Turnalar)",
+    "family": "Gruidae (Turnagiller)",
+    "scientific_name": "Leucogeranus leucogeranus",
+    "turkish_name": "Ak Turna"
+  },
+  {
+    "order": "Gruiformes (Turnalar)",
+    "family": "Rallidae (Su tavuğugiller)",
+    "scientific_name": "Crex crex",
+    "turkish_name": "Bıldırcınkılavuzu"
+  },
+  {
+    "order": "Gruiformes",
+    "family": "Rallidae",
+    "scientific_name": "Fulica atra",
+    "turkish_name": "Sakarmeke"
+  },
+  {
+    "order": "Gruiformes",
+    "family": "Rallidae",
+    "scientific_name": "Gallinula chloropus",
+    "turkish_name": "Sutavuğu"
+  },
+  {
+    "order": "Gruiformes (Turnalar)",
+    "family": "Rallidae (Su tavuğugiller)",
+    "scientific_name": "Porphyrio alleni",
+    "turkish_name": "Küçük Sazhorozu"
+  },
+  {
+    "order": "Gruiformes (Turnalar)",
+    "family": "Rallidae (Su tavuğugiller)",
+    "scientific_name": "Porphyrio poliocephalus",
+    "turkish_name": "Sazhorozu"
+  },
+  {
+    "order": "Gruiformes (Turnalar)",
+    "family": "Rallidae (Su tavuğugiller)",
+    "scientific_name": "Porzana porzana",
+    "turkish_name": "Benekli Suyelvesi"
+  },
+  {
+    "order": "Gruiformes (Turnalar)",
+    "family": "Rallidae (Su tavuğugiller)",
+    "scientific_name": "Rallus aquaticus",
+    "turkish_name": "Sukılavuzu"
+  },
+  {
+    "order": "Gruiformes (Turnalar)",
+    "family": "Rallidae (Su tavuğugiller)",
+    "scientific_name": "Zapornia parva",
+    "turkish_name": "Bataklık Suyelvesi"
+  },
+  {
+    "order": "Gruiformes (Turnalar)",
+    "family": "Rallidae (Su tavuğugiller)",
+    "scientific_name": "Zapornia pusilla",
+    "turkish_name": "Küçük Suyelvesi"
+  },
+  {
+    "order": "Otidiformes (Toygiller)",
+    "family": "Otididae (Toykuşugiller)",
+    "scientific_name": "Chlamydotis macqueenii",
+    "turkish_name": "Yakalı Toy"
+  },
+  {
+    "order": "Otidiformes (Toygiller)",
+    "family": "Otididae (Toykuşugiller)",
+    "scientific_name": "Chlamydotis undulata",
+    "turkish_name": "Yakalı Toy"
+  },
+  {
+    "order": "Otidiformes (Toygiller)",
+    "family": "Otididae (Toykuşugiller)",
+    "scientific_name": "Otis tarda",
+    "turkish_name": "Toy"
+  },
+  {
+    "order": "Otidiformes (Toygiller)",
+    "family": "Otididae (Toykuşugiller)",
+    "scientific_name": "Tetrax tetrax",
+    "turkish_name": "Mezgeldek"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Acrocephalidae (Kamışçınlar, Sazbülbülleri)",
+    "scientific_name": "Acrocephalus agricola",
+    "turkish_name": "Doğu Kamışçını"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Acrocephalidae",
+    "scientific_name": "Acrocephalus arundinaceus",
+    "turkish_name": "Büyük Kamışçın"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Acrocephalidae (Kamışçınlar, Sazbülbülleri)",
+    "scientific_name": "Acrocephalus dumetorum",
+    "turkish_name": "Kuzey Kamışçını"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Acrocephalidae (Kamışçınlar, Sazbülbülleri)",
+    "scientific_name": "Acrocephalus melanopogon",
+    "turkish_name": "Bıyıklı Kamışçın"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Acrocephalidae (Kamışçınlar, Sazbülbülleri)",
+    "scientific_name": "Acrocephalus paludicola",
+    "turkish_name": "Sarı Kamışçın"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Acrocephalidae (Kamışçınlar, Sazbülbülleri)",
+    "scientific_name": "Acrocephalus palustris",
+    "turkish_name": "Çalı Kamışçını"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Acrocephalidae (Kamışçınlar, Sazbülbülleri)",
+    "scientific_name": "Acrocephalus schoenobaenus",
+    "turkish_name": "Kındıra Kamışçını"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Acrocephalidae (Kamışçınlar, Sazbülbülleri)",
+    "scientific_name": "Acrocephalus scirpaceus",
+    "turkish_name": "Saz Kamışçını"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Acrocephalidae",
+    "scientific_name": "Hippolais icterina",
+    "turkish_name": "Sarı Mukallit"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Acrocephalidae (Kamışçınlar, Sazbülbülleri)",
+    "scientific_name": "Hippolais languida",
+    "turkish_name": "Dağ Mukallidi"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Acrocephalidae (Kamışçınlar, Sazbülbülleri)",
+    "scientific_name": "Hippolais olivetorum",
+    "turkish_name": "Zeytin Mukallidi"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Acrocephalidae (Kamışçınlar, Sazbülbülleri)",
+    "scientific_name": "Hippolais polyglotta",
+    "turkish_name": "Şarkıcı Mukallit"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Acrocephalidae (Kamışçınlar, Sazbülbülleri)",
+    "scientific_name": "Iduna caligata",
+    "turkish_name": "Küçük Mukallit"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Acrocephalidae (Kamışçınlar, Sazbülbülleri)",
+    "scientific_name": "Iduna opaca",
+    "turkish_name": "Batı Ak Mukalliti"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Acrocephalidae",
+    "scientific_name": "Iduna pallida",
+    "turkish_name": "Ak Mukallit"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Acrocephalidae (Kamışçınlar, Sazbülbülleri)",
+    "scientific_name": "Iduna rama",
+    "turkish_name": "Sazak Mukalliti"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Aegithalidae",
+    "scientific_name": "Aegithalos caudatus",
+    "turkish_name": "Uzunkuyruklu Baştankara"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Alaudidae (Toygargiller)",
+    "scientific_name": "Alaemon alaudipes",
+    "turkish_name": "İbibik Toygarı"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Alaudidae",
+    "scientific_name": "Alauda arvensis",
+    "turkish_name": "Tarlakuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Alaudidae (Toygargiller)",
+    "scientific_name": "Alauda leucoptera",
+    "turkish_name": "Akkanatlı Toygar"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Alaudidae (Toygargiller)",
+    "scientific_name": "Ammomanes cinctura",
+    "turkish_name": "Küçük Çöl Toygarı"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Alaudidae (Toygargiller)",
+    "scientific_name": "Ammomanes deserti",
+    "turkish_name": "Çöl Toygarı"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Alaudidae",
+    "scientific_name": "Calandrella brachydactyla",
+    "turkish_name": "Bozkır Toygarı"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Alaudidae (Toygargiller)",
+    "scientific_name": "Calandrella cheleensis",
+    "turkish_name": "Kütparmaklı Toygar"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Alaudidae (Toygargiller)",
+    "scientific_name": "Alaudala rufescens",
+    "turkish_name": "Çorak Toygarı"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Alaudidae",
+    "scientific_name": "Eremophila alpestris",
+    "turkish_name": "Kulaklı Toygar"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Alaudidae",
+    "scientific_name": "Galerida cristata",
+    "turkish_name": "Tepeli Toygar"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Alaudidae (Toygargiller)",
+    "scientific_name": "Galerida theklae",
+    "turkish_name": "Tekla Toygarı"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Alaudidae",
+    "scientific_name": "Lullula arborea",
+    "turkish_name": "Orman Toygarı"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Alaudidae (Toygargiller)",
+    "scientific_name": "Melanocorypha bimaculata",
+    "turkish_name": "Küçük Boğmaklı Toygar"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Alaudidae",
+    "scientific_name": "Melanocorypha calandra",
+    "turkish_name": "Boğmaklı Toygar"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Alaudidae (Toygargiller)",
+    "scientific_name": "Melanocorypha yeltoniensis",
+    "turkish_name": "Kara Toygar"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Bombycillidae (İpekkuyrukgiller)",
+    "scientific_name": "Bombycilla garrulus",
+    "turkish_name": "İpekkuyruk"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Calcariidae (Çinteler)",
+    "scientific_name": "Calcarius lapponicus",
+    "turkish_name": "Mahmuzlu Çinte"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Calcariidae (Çinteler)",
+    "scientific_name": "Plectrophenax nivalis",
+    "turkish_name": "Alaca Çinte"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Certhiidae (Tırmaşık kuşugiller)",
+    "scientific_name": "Certhia brachydactyla",
+    "turkish_name": "Bahçe Tırmaşıkkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Certhiidae (Tırmaşık kuşugiller)",
+    "scientific_name": "Certhia familiaris",
+    "turkish_name": "Orman Tırmaşıkkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Cinclidae (Su-karatavuğugiller )",
+    "scientific_name": "Cinclus cinclus",
+    "turkish_name": "Derekuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Cisticolidae (Sistikolagiller)",
+    "scientific_name": "Cisticola juncidis",
+    "turkish_name": "Yelpazekuyruk"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Cisticolidae (Sistikolagiller)",
+    "scientific_name": "Prinia gracilis",
+    "turkish_name": "Dikkuyruklu Ötleğen"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "scientific_name": "Corvus corax",
+    "turkish_name": "Kuzgun"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "scientific_name": "Corvus cornix",
+    "turkish_name": "Leş Kargası"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Corvidae (Kargagiller)",
+    "scientific_name": "Corvus corone",
+    "turkish_name": "Leş Kargası"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "scientific_name": "Corvus frugilegus",
+    "turkish_name": "Ekin Kargası"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "scientific_name": "Corvus monedula",
+    "turkish_name": "Küçük Karga"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Corvidae (Kargagiller)",
+    "scientific_name": "Corvus rhipidurus",
+    "turkish_name": "Kısakuyruklu Kuzgun"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Corvidae (Kargagiller)",
+    "scientific_name": "Corvus ruficollis",
+    "turkish_name": "Çöl Kuzgunu"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "scientific_name": "Garrulus glandarius",
+    "turkish_name": "Alakarga"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Corvidae (Kargagiller)",
+    "scientific_name": "Nucifraga caryocatactes",
+    "turkish_name": "Göknar Kargası"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "scientific_name": "Pica pica",
+    "turkish_name": "Saksağan"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "scientific_name": "Pyrrhocorax graculus",
+    "turkish_name": "Sarıgagalı Dağ Kargası"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "scientific_name": "Pyrrhocorax pyrrhocorax",
+    "turkish_name": "Kırmızıgagalı Dağ Kargası"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Emberizidae (Kiraz kuşugiller)",
+    "scientific_name": "Emberiza aureola",
+    "turkish_name": "Çayır Kirazkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Emberizidae (Kiraz kuşugiller)",
+    "scientific_name": "Emberiza bruniceps",
+    "turkish_name": "Kızılbaşlı Çinte"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Emberizidae (Kiraz kuşugiller)",
+    "scientific_name": "Emberiza buchanani",
+    "turkish_name": "Doğu Kirazkuşu"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Emberizidae",
+    "scientific_name": "Emberiza caesia",
+    "turkish_name": "Kızıl Kirazkuşu"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Emberizidae",
+    "scientific_name": "Emberiza calandra",
+    "turkish_name": "Tarla Çintesi"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Emberizidae",
+    "scientific_name": "Emberiza cia",
+    "turkish_name": "Kaya Çintesi"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Emberizidae (Kiraz kuşugiller)",
+    "scientific_name": "Emberiza cineracea",
+    "turkish_name": "Boz Çinte"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Emberizidae",
+    "scientific_name": "Emberiza cirlus",
+    "turkish_name": "Bahçe Çintesi"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Emberizidae",
+    "scientific_name": "Emberiza citrinella",
+    "turkish_name": "Sarı Çinte"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Emberizidae",
+    "scientific_name": "Emberiza hortulana",
+    "turkish_name": "Kirazkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Emberizidae (Kiraz kuşugiller)",
+    "scientific_name": "Emberiza leucocephalos",
+    "turkish_name": "Akbaşlı Çinte"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Emberizidae",
+    "scientific_name": "Emberiza melanocephala",
+    "turkish_name": "Karabaşlı Çinte"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Emberizidae (Kiraz kuşugiller)",
+    "scientific_name": "Emberiza pusilla",
+    "turkish_name": "Küçük Çinte"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Emberizidae (Kiraz kuşugiller)",
+    "scientific_name": "Emberiza rustica",
+    "turkish_name": "Akkaşlı Çinte"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Emberizidae (Kiraz kuşugiller)",
+    "scientific_name": "Emberiza schoeniclus",
+    "turkish_name": "Bataklık Çintesi"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Emberizidae (Kiraz kuşugiller)",
+    "scientific_name": "Emberiza striolata",
+    "turkish_name": "Gri Başlı Kirazkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Fringillidae (İspinozgiller)",
+    "scientific_name": "Acanthis flammea",
+    "turkish_name": "Huş İsketesi"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Fringillidae (İspinozgiller)",
+    "scientific_name": "Bucanetes githagineus",
+    "turkish_name": "Küçük Alamecek"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Fringillidae (İspinozgiller)",
+    "scientific_name": "Bucanetes mongolicus",
+    "turkish_name": "Doğu Alameceği"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "scientific_name": "Carduelis carduelis",
+    "turkish_name": "Saka"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Fringillidae (İspinozgiller)",
+    "scientific_name": "Carduelis citrinella",
+    "turkish_name": "Büyük İskete"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Fringillidae (İspinozgiller)",
+    "scientific_name": "Carpodacus erythrinus",
+    "turkish_name": "Çütre"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Fringillidae (İspinozgiller)",
+    "scientific_name": "Carpodacus rubicilla",
+    "turkish_name": "Büyük Çütre"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "scientific_name": "Chloris chloris",
+    "turkish_name": "Florya"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Fringillidae (İspinozgiller)",
+    "scientific_name": "Coccothraustes coccothraustes",
+    "turkish_name": "Kocabaş"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "scientific_name": "Fringilla coelebs",
+    "turkish_name": "İspinoz"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "scientific_name": "Fringilla montifringilla",
+    "turkish_name": "Dağ İspinozu"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "scientific_name": "Linaria cannabina",
+    "turkish_name": "Ketenkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Fringillidae (İspinozgiller)",
+    "scientific_name": "Linaria flavirostris",
+    "turkish_name": "Sarıgagalı Ketenkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Fringillidae (İspinozgiller)",
+    "scientific_name": "Loxia curvirostra",
+    "turkish_name": "Çaprazgaga"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Fringillidae (İspinozgiller)",
+    "scientific_name": "Pyrrhula pyrrhula",
+    "turkish_name": "Şakrak"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Fringillidae (İspinozgiller)",
+    "scientific_name": "Rhodopechys sanguineus",
+    "turkish_name": "Alamecek"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Fringillidae (İspinozgiller)",
+    "scientific_name": "Rhodospiza obsoleta",
+    "turkish_name": "Boz Alamecek"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "scientific_name": "Serinus pusillus",
+    "turkish_name": "Kara İskete"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "scientific_name": "Serinus serinus",
+    "turkish_name": "Küçük İskete"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "scientific_name": "Spinus spinus",
+    "turkish_name": "Karabaşlı İskete"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Hirundinidae",
+    "scientific_name": "Cecropis daurica",
+    "turkish_name": "Kızıl Kırlangıç"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Hirundinidae",
+    "scientific_name": "Delichon urbicum",
+    "turkish_name": "Ev Kırlangıcı"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Hirundinidae",
+    "scientific_name": "Hirundo rustica",
+    "turkish_name": "Kır Kırlangıcı"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Hirundinidae (Kırlangıçgiller)",
+    "scientific_name": "Ptyonoprogne fuligula",
+    "turkish_name": "Taş Kırlangıcı"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Hirundinidae (Kırlangıçgiller)",
+    "scientific_name": "Ptyonoprogne obsoleta",
+    "turkish_name": "Çöl Kırlangıcı"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Hirundinidae",
+    "scientific_name": "Ptyonoprogne rupestris",
+    "turkish_name": "Kaya Kırlangıcı"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Hirundinidae (Kırlangıçgiller)",
+    "scientific_name": "Riparia riparia",
+    "turkish_name": "Kum Kırlangıcı"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Hypocoliidae (İpekli boğangiller)",
+    "scientific_name": "Hypocolius ampelinus",
+    "turkish_name": "Hurmayiyen"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Laniidae",
+    "scientific_name": "Lanius collurio",
+    "turkish_name": "Kızılsırtlı Örümcekkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Laniidae (Örümcek kuşugiller)",
+    "scientific_name": "Lanius excubitor",
+    "turkish_name": "Büyük Örümcekkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Laniidae (Örümcek kuşugiller)",
+    "scientific_name": "Lanius isabellinus",
+    "turkish_name": "Kızılkuyruklu Örümcekkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Laniidae (Örümcek kuşugiller)",
+    "scientific_name": "Lanius meridionalis",
+    "turkish_name": "Gri Örümcek Kuşu"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Laniidae",
+    "scientific_name": "Lanius minor",
+    "turkish_name": "Karaalınlı Örümcekkuşu"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Laniidae",
+    "scientific_name": "Lanius nubicus",
+    "turkish_name": "Maskeli Örümcekkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Laniidae (Örümcek kuşugiller)",
+    "scientific_name": "Lanius pallidirostris",
+    "turkish_name": "Doğu Büyük Örümcekkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Laniidae (Örümcek kuşugiller)",
+    "scientific_name": "Lanius phoenicuroides",
+    "turkish_name": "Türkistan Örümcekkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Laniidae (Örümcek kuşugiller)",
+    "scientific_name": "Lanius schach",
+    "turkish_name": "Uzunkuyruklu Örümcekkuşu"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Laniidae",
+    "scientific_name": "Lanius senator",
+    "turkish_name": "Kızılbaşlı Örümcekkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Leiotrichidae (Gülen ardıçkuşları)",
+    "scientific_name": "Argya altirostris",
+    "turkish_name": "Irak Yedikardeşi"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Locustellidae (Kamışçıngiller)",
+    "scientific_name": "Locustella fluviatilis",
+    "turkish_name": "Ağaç Kamışçını"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Locustellidae (Kamışçıngiller)",
+    "scientific_name": "Locustella luscinioides",
+    "turkish_name": "Bataklık Kamışçını"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Locustellidae (Kamışçıngiller)",
+    "scientific_name": "Locustella naevia",
+    "turkish_name": "Çekirge Kamışçını"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Motacillidae",
+    "scientific_name": "Anthus campestris",
+    "turkish_name": "Kır İncirkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Motacillidae (Kuyruksallayangiller)",
+    "scientific_name": "Anthus cervinus",
+    "turkish_name": "Kızılgerdanlı İncirkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Motacillidae (Kuyruksallayangiller)",
+    "scientific_name": "Anthus godlewskii",
+    "turkish_name": "Moğol İncirkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Motacillidae (Kuyruksallayangiller)",
+    "scientific_name": "Anthus hodgsoni",
+    "turkish_name": "Yeşilsırtlı İncirkuşu"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Motacillidae",
+    "scientific_name": "Anthus pratensis",
+    "turkish_name": "Çayır İncirkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Motacillidae (Kuyruksallayangiller)",
+    "scientific_name": "Anthus richardi",
+    "turkish_name": "Mahmuzlu İncirkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Motacillidae (Kuyruksallayangiller)",
+    "scientific_name": "Anthus rubescens",
+    "turkish_name": "Pasifik İncirkuşu"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Motacillidae",
+    "scientific_name": "Anthus spinoletta",
+    "turkish_name": "Dağ İncirkuşu"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Motacillidae",
+    "scientific_name": "Anthus trivialis",
+    "turkish_name": "Ağaç İncirkuşu"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Motacillidae",
+    "scientific_name": "Motacilla alba",
+    "turkish_name": "Akkuyruksallayan"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Motacillidae (Kuyruksallayangiller)",
+    "scientific_name": "Motacilla cinerea",
+    "turkish_name": "Dağ Kuyruksallayanı"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Motacillidae (Kuyruksallayangiller)",
+    "scientific_name": "Motacilla citreola",
+    "turkish_name": "Sarıbaşlı Kuyruksallayan"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Motacillidae",
+    "scientific_name": "Motacilla flava",
+    "turkish_name": "Sarı Kuyruksallayan"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Muscicapidae (Sinekkapangiller)",
+    "scientific_name": "Cercotrichas galactotes",
+    "turkish_name": "Çalıbülbülü"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "scientific_name": "Luscinia svecica",
+    "turkish_name": "Mavigerdan"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "scientific_name": "Erithacus rubecula",
+    "turkish_name": "Kızılgerdan"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Muscicapidae (Sinekkapangiller)",
+    "scientific_name": "Ficedula albicollis",
+    "turkish_name": "Halkalı Sinekkapan"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Muscicapidae (Sinekkapangiller)",
+    "scientific_name": "Ficedula hypoleuca",
+    "turkish_name": "Kara Sinekkapan"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Muscicapidae (Sinekkapangiller)",
+    "scientific_name": "Ficedula parva",
+    "turkish_name": "Küçük Sinekkapan"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Muscicapidae (Sinekkapangiller)",
+    "scientific_name": "Ficedula semitorquata",
+    "turkish_name": "Alaca Sinekkapan"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "scientific_name": "Irania gutturalis",
+    "turkish_name": "Taşbülbülü"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Muscicapidae (Sinekkapangiller)",
+    "scientific_name": "Luscinia luscinia",
+    "turkish_name": "Benekli Bülbül"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "scientific_name": "Luscinia megarhynchos",
+    "turkish_name": "Bülbül"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "scientific_name": "Monticola saxatilis",
+    "turkish_name": "Taşkızılı"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "scientific_name": "Monticola solitarius",
+    "turkish_name": "Gökardıç"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "scientific_name": "Muscicapa striata",
+    "turkish_name": "Benekli Sinekkapan"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Muscicapidae (Sinekkapangiller)",
+    "scientific_name": "Oenanthe chrysopygia",
+    "turkish_name": "Kızılca Kuyrukkakan"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Muscicapidae (Sinekkapangiller)",
+    "scientific_name": "Oenanthe cypriaca",
+    "turkish_name": "Kıbrıs Kuyrukkakanı"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Muscicapidae (Sinekkapangiller)",
+    "scientific_name": "Oenanthe deserti",
+    "turkish_name": "Çöl Kuyrukkakanı"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "scientific_name": "Oenanthe finschii",
+    "turkish_name": "Aksırtlı Kuyrukkakan"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "scientific_name": "Oenanthe hispanica",
+    "turkish_name": "Karakulaklı Kuyrukkakan"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "scientific_name": "Oenanthe isabellina",
+    "turkish_name": "Boz Kuyrukkakan"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Muscicapidae (Sinekkapangiller)",
+    "scientific_name": "Oenanthe leucopyga",
+    "turkish_name": "Aktepeli Kuyrukkakan"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Muscicapidae (Sinekkapangiller)",
+    "scientific_name": "Oenanthe lugens",
+    "turkish_name": "Karasırtlı Kuyrukkakan"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Muscicapidae (Sinekkapangiller)",
+    "scientific_name": "Oenanthe melanura",
+    "turkish_name": "Karakuyruk"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Muscicapidae (Sinekkapangiller)",
+    "scientific_name": "Oenanthe monacha",
+    "turkish_name": "Keşiş Kuyrukkakanı"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "scientific_name": "Oenanthe oenanthe",
+    "turkish_name": "Kuyrukkakan"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "scientific_name": "Oenanthe pleschanka",
+    "turkish_name": "Alaca Kuyrukkakan"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Muscicapidae (Sinekkapangiller)",
+    "scientific_name": "Oenanthe xanthoprymna",
+    "turkish_name": "Kızıl Kuyrukkakan"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Muscicapidae (Sinekkapangiller)",
+    "scientific_name": "Phoenicurus erythrogastrus",
+    "turkish_name": "Akkanatlı Kızılkuyruk"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Muscicapidae (Sinekkapangiller)",
+    "scientific_name": "Phoenicurus erythronotus",
+    "turkish_name": "Kızılsırtlı Kızılkuyruk"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "scientific_name": "Phoenicurus ochruros",
+    "turkish_name": "Kara Kızılkuyruk"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "scientific_name": "Phoenicurus phoenicurus",
+    "turkish_name": "Kızılkuyruk"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Muscicapidae (Sinekkapangiller)",
+    "scientific_name": "Saxicola maurus",
+    "turkish_name": "Sibirya Taşkuşu"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "scientific_name": "Saxicola rubetra",
+    "turkish_name": "Çayır Taşkuşu"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "scientific_name": "Saxicola rubicola",
+    "turkish_name": "Taşkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Oriolidae (Sarıasmagiller)",
+    "scientific_name": "Oriolus oriolus",
+    "turkish_name": "Sarıasma"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Panuridae (Bıyıklıbaştankaragiller)",
+    "scientific_name": "Panurus biarmicus",
+    "turkish_name": "Bıyıklı Baştankara"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Paridae",
+    "scientific_name": "Cyanistes caeruleus",
+    "turkish_name": "Mavi Baştankara"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Paridae (Baştankaragiller)",
+    "scientific_name": "Lophophanes cristatus",
+    "turkish_name": "Tepeli Baştankara"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Paridae",
+    "scientific_name": "Parus major",
+    "turkish_name": "Büyük Baştankara"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Paridae",
+    "scientific_name": "Periparus ater",
+    "turkish_name": "Çam Baştankarası"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Paridae",
+    "scientific_name": "Poecile lugubris",
+    "turkish_name": "Akyanaklı Baştankara"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Paridae (Baştankaragiller)",
+    "scientific_name": "Poecile palustris",
+    "turkish_name": "Kayın Baştankarası"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Passeridae (Serçegiller)",
+    "scientific_name": "Carpospiza brachydactyla",
+    "turkish_name": "Boz Serçe"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Passeridae (Serçegiller)",
+    "scientific_name": "Gymnoris xanthocollis",
+    "turkish_name": "Sarıboğazlı Serçe"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Passeridae",
+    "scientific_name": "Montifringilla nivalis",
+    "turkish_name": "Kar Serçesi"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Passeridae",
+    "scientific_name": "Passer domesticus",
+    "turkish_name": "Serçe"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Passeridae",
+    "scientific_name": "Passer hispaniolensis",
+    "turkish_name": "Söğüt Serçesi"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Passeridae (Serçegiller)",
+    "scientific_name": "Passer moabiticus",
+    "turkish_name": "Küçük Serçe"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Passeridae",
+    "scientific_name": "Passer montanus",
+    "turkish_name": "Ağaç Serçesi"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Passeridae",
+    "scientific_name": "Petronia petronia",
+    "turkish_name": "Kaya Serçesi"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Phylloscopidae (Sögütbülbülleri)",
+    "scientific_name": "Phylloscopus bonelli",
+    "turkish_name": "Boz Söğütbülbülü"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Phylloscopidae (Sögütbülbülleri)",
+    "scientific_name": "Phylloscopus borealis",
+    "turkish_name": "Kuzey Çıvgını"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Phylloscopidae",
+    "scientific_name": "Phylloscopus collybita",
+    "turkish_name": "Çıvgın"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Phylloscopidae (Sögütbülbülleri)",
+    "scientific_name": "Phylloscopus fuscatus",
+    "turkish_name": "Esmer Çıvgın"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Phylloscopidae (Sögütbülbülleri)",
+    "scientific_name": "Phylloscopus humei",
+    "turkish_name": "Akkaşlı Çıvgın"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Phylloscopidae (Sögütbülbülleri)",
+    "scientific_name": "Phylloscopus inornatus",
+    "turkish_name": "Sarıkaşlı Çıvgın"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Phylloscopidae (Sögütbülbülleri)",
+    "scientific_name": "Phylloscopus neglectus",
+    "turkish_name": "Küçük Çıvgın"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Phylloscopidae (Sögütbülbülleri)",
+    "scientific_name": "Phylloscopus nitidus",
+    "turkish_name": "Yeşil Çıvgın"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Phylloscopidae (Sögütbülbülleri)",
+    "scientific_name": "Phylloscopus orientalis",
+    "turkish_name": "Boz Çıvgın"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Phylloscopidae (Sögütbülbülleri)",
+    "scientific_name": "Phylloscopus proregulus",
+    "turkish_name": "Çalıkuşu Çıvgını"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Phylloscopidae (Sögütbülbülleri)",
+    "scientific_name": "Phylloscopus sibilatrix",
+    "turkish_name": "Orman Çıvgını"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Phylloscopidae (Sögütbülbülleri)",
+    "scientific_name": "Phylloscopus sindianus",
+    "turkish_name": "Kafkas Çıvgını"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Phylloscopidae (Sögütbülbülleri)",
+    "scientific_name": "Phylloscopus trochiloides",
+    "turkish_name": "Yeşilimsi Çıvgın"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Phylloscopidae",
+    "scientific_name": "Phylloscopus trochilus",
+    "turkish_name": "Söğütbülbülü"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Prunellidae (Dağ bülbülügiller)",
+    "scientific_name": "Prunella atrogularis",
+    "turkish_name": "Karaboğazlı Dağbülbülü"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Prunellidae (Dağ bülbülügiller)",
+    "scientific_name": "Prunella collaris",
+    "turkish_name": "Büyük Dağbülbülü"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Prunellidae",
+    "scientific_name": "Prunella modularis",
+    "turkish_name": "Dağbülbülü"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Prunellidae (Dağ bülbülügiller)",
+    "scientific_name": "Prunella montanella",
+    "turkish_name": "Sibirya Dağbülbülü"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Prunellidae (Dağ bülbülügiller)",
+    "scientific_name": "Prunella ocularis",
+    "turkish_name": "Sürmeli Dağbülbülü"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Pycnonotidae (Arap bülbülügiller)",
+    "scientific_name": "Pycnonotus barbatus",
+    "turkish_name": "Gri Bülbül"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Pycnonotidae (Arap bülbülügiller)",
+    "scientific_name": "Pycnonotus leucotis",
+    "turkish_name": "Akyanaklı Arapbülbülü"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Pycnonotidae (Arap bülbülügiller)",
+    "scientific_name": "Pycnonotus xanthopygos",
+    "turkish_name": "Arapbülbülü"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Regulidae",
+    "scientific_name": "Regulus ignicapilla",
+    "turkish_name": "Sürmeli Çalıkuşu"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Regulidae",
+    "scientific_name": "Regulus regulus",
+    "turkish_name": "Çalıkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Remizidae (Çulha kuşugiller)",
+    "scientific_name": "Remiz pendulinus",
+    "turkish_name": "Çulhakuşu"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Scotocercidae",
+    "scientific_name": "Cettia cetti",
+    "turkish_name": "Kamışbülbülü"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Sittidae",
+    "scientific_name": "Sitta europaea",
+    "turkish_name": "Sıvacı"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Sittidae (Sıvacı kuşugiller)",
+    "scientific_name": "Sitta krueperi",
+    "turkish_name": "Anadolu Sıvacısı"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Sittidae",
+    "scientific_name": "Sitta neumayer",
+    "turkish_name": "Kaya Sıvacısı"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Sittidae (Sıvacı kuşugiller)",
+    "scientific_name": "Sitta tephronota",
+    "turkish_name": "Büyük Kaya Sıvacısı"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Sittidae (Sıvacı kuşugiller)",
+    "scientific_name": "Tichodroma muraria",
+    "turkish_name": "Duvar Tırmaşıkkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Sturnidae (Sığırcıkgiller)",
+    "scientific_name": "Acridotheres tristis",
+    "turkish_name": "Çiğdeci"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Sturnidae (Sığırcıkgiller)",
+    "scientific_name": "Pastor roseus",
+    "turkish_name": "Alasığırcık"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Sturnidae (Sığırcıkgiller)",
+    "scientific_name": "Sturnus unicolor",
+    "turkish_name": "Kara Sığırcık"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Sturnidae",
+    "scientific_name": "Sturnus vulgaris",
+    "turkish_name": "Sığırcık"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Sylvidae",
+    "scientific_name": "Sylvia atricapilla",
+    "turkish_name": "Karabaşlı Ötleğen"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Sylvidae (Ötleğengiller)",
+    "scientific_name": "Sylvia borin",
+    "turkish_name": "Boz Ötleğen"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Sylvidae (Ötleğengiller)",
+    "scientific_name": "Curruca cantillans",
+    "turkish_name": "Bıyıklı Ötleğen"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Sylvidae",
+    "scientific_name": "Curruca communis",
+    "turkish_name": "Akgerdanlı Ötleğen"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Sylvidae (Ötleğengiller)",
+    "scientific_name": "Curruca conspicillata",
+    "turkish_name": "Bozkır Ötleğeni"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Sylvidae",
+    "scientific_name": "Curruca curruca",
+    "turkish_name": "Küçük Akgerdanlı Ötleğen"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Sylvidae",
+    "scientific_name": "Curruca crassirostris",
+    "turkish_name": "Akgözlü Ötleğen"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Sylvidae",
+    "scientific_name": "Curruca melanocephala",
+    "turkish_name": "Maskeli Ötleğen"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Sylvidae (Ötleğengiller)",
+    "scientific_name": "Curruca melanothorax",
+    "turkish_name": "Kıbrıs Ötleğeni"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Sylvidae (Ötleğengiller)",
+    "scientific_name": "Curruca mystacea",
+    "turkish_name": "Pembegöğüslü Ötleğen"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Sylvidae (Ötleğengiller)",
+    "scientific_name": "Curruca nana",
+    "turkish_name": "Çöl Ötleğeni"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Sylvidae",
+    "scientific_name": "Curruca nisoria",
+    "turkish_name": "Çizgili Ötleğen"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Sylvidae",
+    "scientific_name": "Curruca ruppeli",
+    "turkish_name": "Karaboğazlı Ötleğen"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Sylvidae (Ötleğengiller)",
+    "scientific_name": "Curruca undata",
+    "turkish_name": "Dartford’un Ötleğeni"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Troglodytidae",
+    "scientific_name": "Troglodytes troglodytes",
+    "turkish_name": "Çitkuşu"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Turdidae (Karatavukgiller)",
+    "scientific_name": "Turdus atrogularis",
+    "turkish_name": "Karagerdanlı Ardıç"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Turdidae (Karatavukgiller)",
+    "scientific_name": "Turdus iliacus",
+    "turkish_name": "Kızıl Ardıç"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Turdidae",
+    "scientific_name": "Turdus merula",
+    "turkish_name": "Karatavuk"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Turdidae",
+    "scientific_name": "Turdus philomelos",
+    "turkish_name": "Öter Ardıç"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Turdidae",
+    "scientific_name": "Turdus pilaris",
+    "turkish_name": "Tarla Ardıcı"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Turdidae (Karatavukgiller)",
+    "scientific_name": "Turdus ruficollis",
+    "turkish_name": "Kara Gırtlaklı Ardıç"
+  },
+  {
+    "order": "Passeriformes (Ötücü kuşlar)",
+    "family": "Turdidae (Karatavukgiller)",
+    "scientific_name": "Turdus torquatus",
+    "turkish_name": "Boğmaklı Ardıç"
+  },
+  {
+    "order": "Passeriformes",
+    "family": "Turdidae",
+    "scientific_name": "Turdus viscivorus",
+    "turkish_name": "Ökse Ardıcı"
+  },
+  {
+    "order": "Pelecaniformes (Pelikansılar)",
+    "family": "Ardeidae (Balıkçılgiller)",
+    "scientific_name": "Ardea alba",
+    "turkish_name": "Büyük Ak Balıkçıl"
+  },
+  {
+    "order": "Pelecaniformes (Pelikansılar)",
+    "family": "Ardeidae (Balıkçılgiller)",
+    "scientific_name": "Ardea cinerea",
+    "turkish_name": "Gri Balıkçıl"
+  },
+  {
+    "order": "Pelecaniformes (Pelikansılar)",
+    "family": "Ardeidae (Balıkçılgiller)",
+    "scientific_name": "Ardea purpurea",
+    "turkish_name": "Erguvani Balıkçıl"
+  },
+  {
+    "order": "Pelecaniformes (Pelikansılar)",
+    "family": "Ardeidae (Balıkçılgiller)",
+    "scientific_name": "Ardeola ralloides",
+    "turkish_name": "Alaca Balıkçıl"
+  },
+  {
+    "order": "Pelecaniformes (Pelikansılar)",
+    "family": "Ardeidae (Balıkçılgiller)",
+    "scientific_name": "Botaurus stellaris",
+    "turkish_name": "Balaban"
+  },
+  {
+    "order": "Pelecaniformes (Pelikansılar)",
+    "family": "Ardeidae (Balıkçılgiller)",
+    "scientific_name": "Bubulcus ibis",
+    "turkish_name": "Sığır Balıkçılı"
+  },
+  {
+    "order": "Pelecaniformes (Pelikansılar)",
+    "family": "Ardeidae (Balıkçılgiller)",
+    "scientific_name": "Egretta garzetta",
+    "turkish_name": "Küçük Ak Balıkçıl"
+  },
+  {
+    "order": "Pelecaniformes (Pelikansılar)",
+    "family": "Ardeidae (Balıkçılgiller)",
+    "scientific_name": "Ixobrychus minutus",
+    "turkish_name": "Küçük Balaban"
+  },
+  {
+    "order": "Pelecaniformes (Pelikansılar)",
+    "family": "Ardeidae (Balıkçılgiller)",
+    "scientific_name": "Nycticorax nycticorax",
+    "turkish_name": "Gece Balıkçılı"
+  },
+  {
+    "order": "Pelecaniformes (Pelikansılar)",
+    "family": "Pelecanidae (Pelikangiller)",
+    "scientific_name": "Pelecanus crispus",
+    "turkish_name": "Tepeli Pelikan"
+  },
+  {
+    "order": "Pelecaniformes (Pelikansılar)",
+    "family": "Pelecanidae (Pelikangiller)",
+    "scientific_name": "Pelecanus onocrotalus",
+    "turkish_name": "Ak Pelikan"
+  },
+  {
+    "order": "Pelecaniformes (Pelikansılar)",
+    "family": "Pelecanidae (Pelikangiller)",
+    "scientific_name": "Pelecanus rufescens",
+    "turkish_name": "Küçük Pelikan"
+  },
+  {
+    "order": "Pelecaniformes (Pelikansılar)",
+    "family": "Threskiornithidae (Kelaynakgiller, ibisgiller)",
+    "scientific_name": "Geronticus eremita",
+    "turkish_name": "Kelaynak"
+  },
+  {
+    "order": "Pelecaniformes (Pelikansılar)",
+    "family": "Threskiornithidae (Kelaynakgiller, ibisgiller)",
+    "scientific_name": "Platalea leucorodia",
+    "turkish_name": "Kaşıkçı"
+  },
+  {
+    "order": "Pelecaniformes (Pelikansılar)",
+    "family": "Threskiornithidae (Kelaynakgiller, ibisgiller)",
+    "scientific_name": "Plegadis falcinellus",
+    "turkish_name": "Çeltikçi"
+  },
+  {
+    "order": "Phaethontiformes (Tropik kuşları)",
+    "family": "Phaethontidae (Tropikkuşugiller)",
+    "scientific_name": "Phaethon lepturus",
+    "turkish_name": "Beyaz Kuyruklu Tropik Kuş"
+  },
+  {
+    "order": "Phoenicopteriformes (Flamingolar)",
+    "family": "Phoenicopteridae (Flamingogiller)",
+    "scientific_name": "Phoeniconaias minor",
+    "turkish_name": "Küçük Flamingo"
+  },
+  {
+    "order": "Phoenicopteriformes (Flamingolar)",
+    "family": "Phoenicopteridae (Flamingogiller)",
+    "scientific_name": "Phoenicopterus roseus",
+    "turkish_name": "Flamingo"
+  },
+  {
+    "order": "Piciformes (Ağaçkakansılar)",
+    "family": "Picidae (Ağaçkakangiller)",
+    "scientific_name": "Dendrocopos leucotos",
+    "turkish_name": "Aksırtlı Ağaçkakan"
+  },
+  {
+    "order": "Piciformes (Ağaçkakansılar)",
+    "family": "Picidae (Ağaçkakangiller)",
+    "scientific_name": "Dendrocopos major",
+    "turkish_name": "Orman Alaca Ağaçkakanı"
+  },
+  {
+    "order": "Piciformes",
+    "family": "Picidae",
+    "scientific_name": "Dendrocopos syriacus",
+    "turkish_name": "Alaca Ağaçkakan"
+  },
+  {
+    "order": "Piciformes",
+    "family": "Picidae",
+    "scientific_name": "Dendrocopos minor",
+    "turkish_name": "Küçük Ağaçkakan"
+  },
+  {
+    "order": "Piciformes",
+    "family": "Picidae",
+    "scientific_name": "Dryocopus martius",
+    "turkish_name": "Kara Ağaçkakan"
+  },
+  {
+    "order": "Piciformes",
+    "family": "Picidae",
+    "scientific_name": "Jynx torquilla",
+    "turkish_name": "Boyunçeviren"
+  },
+  {
+    "order": "Piciformes (Ağaçkakansılar)",
+    "family": "Picidae (Ağaçkakangiller)",
+    "scientific_name": "Jynx torquilla",
+    "turkish_name": "Boyunçeviren"
+  },
+  {
+    "order": "Piciformes (Ağaçkakansılar)",
+    "family": "Picidae (Ağaçkakangiller)",
+    "scientific_name": "Dendrocopos medius",
+    "turkish_name": "Ortanca Ağaçkakan"
+  },
+  {
+    "order": "Piciformes (Ağaçkakansılar)",
+    "family": "Picidae (Ağaçkakangiller)",
+    "scientific_name": "Picus canus",
+    "turkish_name": "Küçük Yeşil Ağaçkakan"
+  },
+  {
+    "order": "Piciformes (Ağaçkakansılar)",
+    "family": "Picidae (Ağaçkakangiller)",
+    "scientific_name": "Picus viridis",
+    "turkish_name": "Yeşil Ağaçkakan"
+  },
+  {
+    "order": "Podicipediformes (Batağan)",
+    "family": "Podicipedidae (Batağanlar)",
+    "scientific_name": "Podiceps auritus",
+    "turkish_name": "Kulaklı Batağan"
+  },
+  {
+    "order": "Podicipediformes (Batağan)",
+    "family": "Podicipedidae (Batağanlar)",
+    "scientific_name": "Podiceps cristatus",
+    "turkish_name": "Bahri"
+  },
+  {
+    "order": "Podicipediformes (Batağan)",
+    "family": "Podicipedidae (Batağanlar)",
+    "scientific_name": "Podiceps grisegena",
+    "turkish_name": "Kızılboyunlu Batağan"
+  },
+  {
+    "order": "Podicipediformes (Batağan)",
+    "family": "Podicipedidae (Batağanlar)",
+    "scientific_name": "Podiceps nigricollis",
+    "turkish_name": "Karaboyunlu Batağan"
+  },
+  {
+    "order": "Podicipediformes (Batağan)",
+    "family": "Podicipedidae (Batağanlar)",
+    "scientific_name": "Tachybaptus ruficollis",
+    "turkish_name": "Küçük Batağan"
+  },
+  {
+    "order": "Podicipediformes (Batağan)",
+    "family": "Hydrobatidae (Fırtınakuşgiller)",
+    "scientific_name": "Hydrobates pelagicus",
+    "turkish_name": "Fırtınakırlangıcı"
+  },
+  {
+    "order": "Podicipediformes (Batağan)",
+    "family": "Procellariidae (Yelkovangiller)",
+    "scientific_name": "Calonectris diomedea",
+    "turkish_name": "Boz Yelkovan"
+  },
+  {
+    "order": "Podicipediformes (Batağan)",
+    "family": "Procellariidae (Yelkovangiller)",
+    "scientific_name": "Puffinus puffinus",
+    "turkish_name": "Atlantik Yelkovanı"
+  },
+  {
+    "order": "Podicipediformes (Batağan)",
+    "family": "Procellariidae (Yelkovangiller)",
+    "scientific_name": "Puffinus yelkouan",
+    "turkish_name": "Yelkovan"
+  },
+  {
+    "order": "Psittaciformes (Papağan, Papağansılar)",
+    "family": "Psittacidae (Papağangiller)",
+    "scientific_name": "Psittacula eupatria",
+    "turkish_name": "İskender Papağanı"
+  },
+  {
+    "order": "Psittaciformes (Papağan, Papağansılar)",
+    "family": "Psittacidae (Papağangiller)",
+    "scientific_name": "Psittacula krameri",
+    "turkish_name": "Yeşil Papağan"
+  },
+  {
+    "order": "Psittaciformes (Papağan, Papağansılar)",
+    "family": "Pteroclidae (Kırlangıçgiller)",
+    "scientific_name": "Pterocles alchata",
+    "turkish_name": "Kılkuyruk Bağırtlak"
+  },
+  {
+    "order": "Psittaciformes (Papağan, Papağansılar)",
+    "family": "Pteroclidae (Kırlangıçgiller)",
+    "scientific_name": "Pterocles exustus",
+    "turkish_name": "Kahvekarınlı Bağırtlak"
+  },
+  {
+    "order": "Psittaciformes (Papağan, Papağansılar)",
+    "family": "Pteroclidae (Kırlangıçgiller)",
+    "scientific_name": "Pterocles orientalis",
+    "turkish_name": "Bağırtlak"
+  },
+  {
+    "order": "Psittaciformes (Papağan, Papağansılar)",
+    "family": "Pteroclidae (Kırlangıçgiller)",
+    "scientific_name": "Pterocles senegallus",
+    "turkish_name": "Benekli Bağırtlak"
+  },
+  {
+    "order": "Psittaciformes (Papağan, Papağansılar)",
+    "family": "Pteroclidae (Kırlangıçgiller)",
+    "scientific_name": "Syrrhaptes paradoxus",
+    "turkish_name": "Paçalı Bağırtlak"
+  },
+  {
+    "order": "Strigiformes (Baykuşlar)",
+    "family": "Strigidae (Baykuşgiller)",
+    "scientific_name": "Aegolius funereus",
+    "turkish_name": "Paçalı Baykuş"
+  },
+  {
+    "order": "Strigiformes (Baykuşlar)",
+    "family": "Strigidae (Baykuşgiller)",
+    "scientific_name": "Asio flammeus",
+    "turkish_name": "Kır Baykuşu"
+  },
+  {
+    "order": "Strigiformes (Baykuşlar)",
+    "family": "Strigidae (Baykuşgiller)",
+    "scientific_name": "Asio otus",
+    "turkish_name": "Kulaklı Orman Baykuşu"
+  },
+  {
+    "order": "Strigiformes",
+    "family": "Strigidae",
+    "scientific_name": "Athene noctua",
+    "turkish_name": "Kukumav"
+  },
+  {
+    "order": "Strigiformes (Baykuşlar)",
+    "family": "Strigidae (Baykuşgiller)",
+    "scientific_name": "Bubo bubo",
+    "turkish_name": "Puhu"
+  },
+  {
+    "order": "Strigiformes (Baykuşlar)",
+    "family": "Strigidae (Baykuşgiller)",
+    "scientific_name": "Ketupa zeylonensis",
+    "turkish_name": "Balık Baykuşu"
+  },
+  {
+    "order": "Strigiformes (Baykuşlar)",
+    "family": "Strigidae (Baykuşgiller)",
+    "scientific_name": "Otus brucei",
+    "turkish_name": "Çizgili İshakkuşu"
+  },
+  {
+    "order": "Strigiformes (Baykuşlar)",
+    "family": "Strigidae (Baykuşgiller)",
+    "scientific_name": "Otus scops",
+    "turkish_name": "İshakkuşu"
+  },
+  {
+    "order": "Strigiformes (Baykuşlar)",
+    "family": "Strigidae (Baykuşgiller)",
+    "scientific_name": "Strix aluco",
+    "turkish_name": "Alaca Baykuş"
+  },
+  {
+    "order": "Strigiformes (Baykuşlar)",
+    "family": "Strigidae (Baykuşgiller)",
+    "scientific_name": "Tyto alba",
+    "turkish_name": "Peçeli Baykuş"
+  },
+  {
+    "order": "Suliformes (Karabataklar)",
+    "family": "Phalacrocoracidae (Karabatakgiller)",
+    "scientific_name": "Microcarbo pygmaeus",
+    "turkish_name": "Küçük Karabatak"
+  },
+  {
+    "order": "Suliformes (Karabataklar)",
+    "family": "Phalacrocoracidae (Karabatakgiller)",
+    "scientific_name": "Phalacrocorax aristotelis",
+    "turkish_name": "Tepeli Karabatak"
+  },
+  {
+    "order": "Suliformes (Karabataklar)",
+    "family": "Phalacrocoracidae (Karabatakgiller)",
+    "scientific_name": "Phalacrocorax carbo",
+    "turkish_name": "Karabatak"
+  },
+  {
+    "order": "Suliformes (Karabataklar)",
+    "family": "Sulidae (Sümsükgiller)",
+    "scientific_name": "Morus bassanus",
+    "turkish_name": "Sümsükkuşu"
+  }
+]
+

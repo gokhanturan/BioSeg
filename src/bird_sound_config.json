@@ -1,0 +1,32 @@
+{
+  "call_typesENG": ["Courtship", "Call", "Song", "Alarm", "Communication", "Other"],
+  "background_noiseENG": ["Engine Noise", "Human Voice", "Wind Noise", "Phone Sound", "Rain Noise", "Mixed Noise", "Other"],
+  "locationsENG": ["Burdur, Turkey", "Isparta, Turkey", "Antalya, Turkey", "Other"],
+  "habitatsENG": ["Forest", "Wetland", "Field", "Meadow", "Mountain", "Coast", "Urban", "Rural", "Other"],
+  "background_speciesENG": ["Sparrow", "Chaffinch", "Goldfinch", "Jay", "Blackbird", "Robin", "Blackcap", "Nightingale"],
+  "recordistsENG": ["Gülşah YILMAZ", "Halil SÜEL", "Oğuzhan ERFİDAN", "Esat KIZILKAYA", "Other"],
+  "ornithologistsENG": ["Esat KIZILKAYA", "Halil SÜEL", "Other", "Not Verified"],
+  "verification_statusesENG": ["Expert (Ornithologist) Verified", "Labeler", "Not Verified"],
+  "microphonesENG": [
+    "Zoom H4n Pro Internal - Sennheiser MKE 600",
+    "Zoom H4n Pro Internal",
+    "Sennheiser MKE 600",
+    "Audio-Technica AT897",
+    "Rode NTG2",
+    "Zoom H1n Internal",
+    "Tascam DR-40X Internal",
+    "Other"
+  ],
+
+  "bird_species": [
+  {
+    "order": "Passeriformes",
+    "family": "Turdidae",
+    "scientific_name": "Turdus merula",
+    "turkish_name": "Karatavuk"
+  }
+  ],
+
+  "recordersENG": ["Zoom H4n Pro", "Zoom H1n", "Tascam DR-40X", "Sony PCM-D100", "Roland R-07", "Other"],
+  "projectENG": "TÜBİTAK 1001 - Project No: 123O927 - Calculation, Modeling and Mapping of Bird Species Functional Diversity"
+}
