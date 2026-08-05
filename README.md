@@ -182,10 +182,33 @@ Each annotated segment generates:
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
 
 ## 📝 Citation
-If you use **BioSeg** in your research, please cite the SoftwareX article once it becomes available.
 
-A peer-reviewed article describing BioSeg is currently under review in *SoftwareX*.  
-The full citation and DOI will be added here upon publication.
+If you use **BioSeg** in your research, please cite the following peer-reviewed SoftwareX article:
+
+> G. Turan, E. U. Küçüksille, and H. Süel,
+> “BioSeg: An open-source software for bioacoustic segmentation, cluster-assisted labeling, and dataset generation,”
+> *SoftwareX*, vol. 35, art. no. 102902, 2026.
+> https://doi.org/10.1016/j.softx.2026.102902
+
+**Article page:**
+https://www.sciencedirect.com/science/article/pii/S2352711026003936
+
+### BibTeX
+
+```bibtex
+@article{Turan2026BioSeg,
+  title   = {BioSeg: An open-source software for bioacoustic segmentation, cluster-assisted labeling, and dataset generation},
+  author  = {Turan, G{\"o}khan and K{\"u}{\c{c}}{\"u}ksille, Ecir U{\u{g}}ur and S{\"u}el, Halil},
+  journal = {SoftwareX},
+  volume  = {35},
+  pages   = {102902},
+  year    = {2026},
+  issn    = {2352-7110},
+  doi     = {10.1016/j.softx.2026.102902},
+  url     = {https://doi.org/10.1016/j.softx.2026.102902}
+}
+```
+
 
 ## 📬 Contact
 
